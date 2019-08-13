@@ -1,4 +1,4 @@
-# Performance Comparison of between MongoDB & Cassandra
+# MongoDB & Cassandra: comparing performances
 
 Modern day applications create exceptionally large volumes of ever increasing data and ever changing data types. Hence it is not feasible to store such data in the conventional relational databases as they are not optimised for horizontal scaling. This paves the way for NoSQL databases and in this project we compare the architecture and performance of two such NoSQL databases ie. MongoDB and Cassandra.
 
