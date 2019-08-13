@@ -20,3 +20,6 @@ Workload B : Read mostly workload – 95/5 reads and writes
 
 **--60 total iterations--**
 
+## Conclusion
+MongoDB provides superior performance than Cassandra in my testing scenarios. The overall throughput is much higher for
+MongoDB, sometimes attaining more than 5x of Cassandra. MongoDB also exhibits much lower latency in both the workloads across all operation counts.
