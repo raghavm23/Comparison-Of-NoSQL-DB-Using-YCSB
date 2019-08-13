@@ -1,5 +1,4 @@
-# Performance Comparison of NoSQL Databases 
-# MongoDB & Cassandra
+# Performance Comparison of between MongoDB & Cassandra
 
 Modern day applications create exceptionally large volumes of ever increasing data and ever changing data types. Hence it is not feasible to store such data in the conventional relational databases as they are not optimised for horizontal scaling. This paves the way for NoSQL databases and in this project we compare the architecture and performance of two such NoSQL databases ie. MongoDB and Cassandra.
 
@@ -22,5 +21,4 @@ Workload B : Read mostly workload – 95/5 reads and writes
 **--60 total iterations--**
 
 ## Conclusion
-MongoDB provides superior performance than Cassandra in my testing scenarios. The overall throughput is much higher for
-MongoDB, sometimes attaining more than 5x of Cassandra. MongoDB also exhibits much lower latency in both the workloads across all operation counts.
+**MongoDB** provides **superior** performance than **Cassandra** in my testing scenarios. The **overall throughput** is much higher for **MongoDB**, sometimes attaining more than **5x of Cassandra**. MongoDB also exhibits much lower latency in both the workloads across all operation counts.
