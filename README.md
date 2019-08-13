@@ -9,6 +9,14 @@ The YCSB tool consists of a ycsb-client which generates the workload and the def
 
 ## Performance Test Plan
 **Two** NoSQL DB compared- MongoDB and Cassandra
+
 **Two** predefined workloads A & B are chosen for the performance testing
+Workload A : Update heavy workload – 50/50 reads and writes
+Workload B : Read mostly workload – 95/5 reads and writes
+
 **Five** different number of operations chosen for testing are 100000, 250000, 500000, 750000 and 1000000**
+
 **Three** times each test is performed for accurate and consistent results
+
+**--60 total iterations--**
+
