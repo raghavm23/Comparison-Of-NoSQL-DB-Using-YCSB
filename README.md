@@ -7,7 +7,7 @@ Developed by [Brian Frank Cooper](https://github.com/brianfrankcooper/YCSB)
 
 The YCSB tool consists of a ycsb-client which generates the workload and the defined workloads which are the scenarios to be executed by the client.
 
-## Performance Test Plan**
+## Performance Test Plan
 **Two** NoSQL DB compared- MongoDB and Cassandra
 **Two** predefined workloads A & B are chosen for the performance testing
 **Five** different number of operations chosen for testing are 100000, 250000, 500000, 750000 and 1000000**
